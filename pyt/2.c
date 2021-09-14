@@ -1,13 +1,13 @@
 /*************************************************************************
-	> File Name: pyt/1.c
+	> File Name: 2.c
 	> Author: amoscykl
 	> Mail: amoscykl@163.com 
-	> Created Time: 2021年09月14日 星期二 18时54分56秒
+	> Created Time: 2021年09月14日 星期二 19时11分15秒
  ************************************************************************/
 
 #include<stdio.h>
 int main ()
 {
-    printf ("sadfdsfa\n");
+
     return 0;
 }
