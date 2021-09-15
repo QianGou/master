@@ -1,4 +1,4 @@
-/*************************************************************************
+/************************************************************************
 	> File Name: pyt/1.c
 	> Author: amoscykl
 	> Mail: amoscykl@163.com 
@@ -8,6 +8,9 @@
 #include<stdio.h>
 int main ()
 {
+
     printf ("sadfdsfa\n");
+    printf ("love world\n");
+
     return 0;
 }
